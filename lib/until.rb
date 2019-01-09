@@ -1,6 +1,14 @@
-def using_until
-        levitation_force = 6
-        #your code here
-    
-end
+def Wingardium_Leviosa
+while        levitation_force = 1
+puts "Wingardium Leviosa"
+puts "Wingardium Leviosa"
+puts "Wingardium Leviosa"
+puts "Wingardium Leviosa"
+puts "Wingardium Leviosa"
+puts "Wingardium Leviosa"
+puts "Wingardium Leviosa"
+puts "Wingardium Leviosa"
+puts "Wingardium Leviosa"
+puts "Wingardium Leviosa"
 
+end
