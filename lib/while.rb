@@ -4,7 +4,7 @@ def using_while
 	levitation_force += 1 
 	puts "Wingardium Leviosa"
 	
-	#your code here
+	end  #your code here
 end
 
 
